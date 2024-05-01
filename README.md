@@ -10,7 +10,7 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
 
 3. The first five rows of the scaled DataFrame should appear as follows:
 
-https://static.bc-edx.com/data/dl-1-2/m19/lms/img/scaled_DataFrame.png
+![image](https://github.com/pbansal181/CryptoClustering/assets/148804724/ad551b21-3481-46fe-96db-29b021ea9ad7)
 
 **Find the Best Value for k Using the Original Scaled DataFrame**
 
@@ -59,6 +59,8 @@ Use the following steps to cluster the cryptocurrencies for the best value for k
 3. Create a new DataFrame with the PCA data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
 
 	- The first five rows of the PCA DataFrame should appear as follows:
+
+![image](https://github.com/pbansal181/CryptoClustering/assets/148804724/91778ae9-838a-466c-93ff-3bd8d40454c0)
 
 **Find the Best Value for k Using the PCA Data**
 
